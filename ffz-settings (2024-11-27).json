@@ -462,7 +462,7 @@
             "pause_updates":false,
             "ephemeral":false,
             "description":"Settings that apply everywhere on Twitch.\nThis better work...\nImported at 1/27/2025, 12:10:35 AM.\nImported at 6/12/2025, 1:53:16 PM.",
-            "url":"https://rawcdn.githack.com/koeliga/ffz/refs/heads/main/ffz-settings%20(2024-11-27).json",
+            "url":"https://raw.githack.com/koeliga/ffz/refs/heads/main/ffz-settings%20(2024-11-27).json",
             "show_toggle":false
          }
       ],
