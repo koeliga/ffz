@@ -15,7 +15,6 @@
     "layout.subtember": false,
     "chat.filtering.highlight-mentions": true,
     "channel.auto-click-off-featured": true,
-    "channel.round-avatars": false,
     "chat.scrollback-length": 300,
     "chat.tab-complete.emotes-without-colon": true,
     "ffz.show-new-settings": true,
