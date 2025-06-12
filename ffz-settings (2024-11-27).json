@@ -5,7 +5,7 @@
     "p:1:layout.subtember": false,
     "p:1:chat.filtering.highlight-mentions": true,
     "p:1:channel.auto-click-off-featured": true,
-    "p:1:channel.round-avatars": true,
+    "p:1:channel.round-avatars": false,
     "p:1::enabled": true,
     "p:1:chat.scrollback-length": 300,
     "p:1:chat.tab-complete.emotes-without-colon": true,
